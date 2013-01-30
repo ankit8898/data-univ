@@ -1,1 +1,3 @@
-hello to gihub!:wq
+hello to gihub!
+
+it's awesome 
